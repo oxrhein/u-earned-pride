@@ -26,8 +26,9 @@ important first:
 * It lands in one read, with the pride arriving at the last
   word. The twist sits in the final word: 'proof'. She does
   not frame the log or celebrate it — she names it proof,
-  as if the forty-six failures had been arguing with her all
-  night and this file settles it. The last word is the punch.
+  as if each of the forty-six failures had told her it would
+  never work and this file is her answer to all of them at
+  once. The last word is the punch.
 * Freshness: no trophy, no podium, no graduation, no
   "never give up" poster. A failed-build count, a 3 a.m.
   compile, and a log file renamed 'proof' — an image the
